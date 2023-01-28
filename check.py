@@ -1,6 +1,7 @@
 def add(a, b):
     c = a + b
     return c
+a=34
 
 def subtract(a, b):
     c = a - b
